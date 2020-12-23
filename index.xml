@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R10burning的博客</title>
+    <title>R10的博客</title>
     <link>https://r10burning.github.io/</link>
-    <description>Recent content on R10burning的博客</description>
+    <description>Recent content on R10的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Dec 2020 10:48:17 +0800</lastBuildDate><atom:link href="https://r10burning.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Wed, 23 Dec 2020 10:48:17 +0800</pubDate>
       
       <guid>https://r10burning.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>sad asd </description>
     </item>
     
     <item>
