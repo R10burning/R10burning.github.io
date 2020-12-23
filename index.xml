@@ -13,7 +13,16 @@
       <pubDate>Wed, 23 Dec 2020 10:48:17 +0800</pubDate>
       
       <guid>https://r10burning.github.io/posts/my-first-post/</guid>
-      <description>天亮了 </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My second Post</title>
+      <link>https://r10burning.github.io/posts/second/</link>
+      <pubDate>Wed, 23 Dec 2020 10:48:17 +0800</pubDate>
+      
+      <guid>https://r10burning.github.io/posts/second/</guid>
+      <description></description>
     </item>
     
   </channel>
